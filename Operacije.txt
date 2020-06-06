@@ -1,3 +1,4 @@
 This project is just for practicing automation.
 Steps:
 1.Create a project
+2.push that project on Github
