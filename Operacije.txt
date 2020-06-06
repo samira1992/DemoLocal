@@ -1,1 +1,2 @@
 This project is just for practicing automation.
+Steps:
